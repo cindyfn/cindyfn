@@ -1,4 +1,4 @@
-## Hi there 👋
+## look mom i'm learning how to code again...
 
 <!--
 **cindyfn/cindyfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
